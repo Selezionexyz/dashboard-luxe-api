@@ -1,3 +1,3 @@
 # Dashboard Luxe API
 
-API Flask pour le Dashboard Luxe.
+API Flask simple pour test de déploiement sur Render.
